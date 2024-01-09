@@ -1,4 +1,4 @@
-# Custom Box Component
+# Custom Box Component (also provides Flex)
 
 ## Overview
 This custom Box component for React applications integrates styled-system and reflexbox, offering a robust solution for responsive UI design. It's fully typed in TypeScript, enhancing development efficiency and code reliability.
